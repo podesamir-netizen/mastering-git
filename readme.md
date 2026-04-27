@@ -1,4 +1,3 @@
-## Hello, Git
+## ich bin mich dev-jsm 
 
-- I'm adding this from 'new-branch'
-- 
+ich bin aus berlin
