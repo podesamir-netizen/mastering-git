@@ -1,6 +1,5 @@
 ## welcome git 
 
-this is coming from 'dev-pode'
+ich bin aus berlin
 
-- I'm adding this from 'new-branch'
-- 
+this is coming from 'dev-pode'
